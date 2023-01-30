@@ -68,10 +68,10 @@ src -- 源码目录
 - `注意`：如果遇到无法运行npm命令，需要配置npm的环境变量，如在path变量中添加：C:\Users\zhenghong\AppData\Roaming\npm;
 - `注意`：如果遇到npm install无法成功下载依赖，请参考[使用Jenkins一键打包部署前端应用，就是这么6！](http://www.macrozheng.com/#/reference/jenkins_vue) 中`遇到的坑`部分。
 
-## 公众号
+## 抖音号
 
-mall项目全套学习教程连载中，关注公众号「幸福视听」第一时间获取。
+关注抖音号「幸福视听」第一时间获取。
 
-加微信群交流，公众号后台回复「**加群**」即可。
+加福利群交流，抖音号后台回复「**加群**」即可。
 
-![公众号图片](https://i.ibb.co/Tgvmdc3/image.png)
+![抖音号图片](https://i.ibb.co/MDch5vm/image.jpg)
